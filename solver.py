@@ -1,6 +1,6 @@
-print("*******************************")
-print("   Solving X^2 - P*X + Q = 0   ")
-print("*******************************")
+print("*************************")
+print("Solving X^2 - P*X + Q = 0")
+print("*************************")
 P = input("Enter the value of P: ")
 Q = input("Enter the value of Q: ")
 
